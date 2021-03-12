@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ashinver218
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Computer Engineering, so mostly I will leanr C++ to
+- 🌱 I’m currently learning Computer Engineering, so mostly I will learn C++ to
 - 💞️ I’m looking to collaborate on Something revolutionary

@@ -1,0 +1,14 @@
+Admin
+ID: admin123
+Password: password
+
+Users
+ID: 11111111
+Password: password1
+ID: 22222222
+Password: password2
+
+Note: 
+Please Turn Off your windows defender if you want to use the Microsoft Office 2019 Activator
+because it may delete the batch file, for safety please check if the "activator.bat" is on 
+the Files directory.

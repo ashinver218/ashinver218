@@ -2,11 +2,6 @@ Admin
 ID: admin123
 Password: password
 
-Users
-ID: 11111111
-Password: password1
-ID: 33333333
-Password: password3
 
 You can delete the other account
 
